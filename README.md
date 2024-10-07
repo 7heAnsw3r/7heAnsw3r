@@ -11,9 +11,8 @@
 📄 &nbsp;Check out my [Résumé](https://7heansw3r.github.io/) for more details about my work and projects. I'm always open to feedback!
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<iframe src="https://giphy.com/embed/kMbNge6klTpoQ" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kMbNge6klTpoQ">via GIPHY</a></p>
 
-### 🛠 &nbsp;Tech Stack
 
 ### 🛠 &nbsp;Tech Stack
 
