@@ -1,34 +1,26 @@
-![Anthony's Banner](https://your-banner-url.com)
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Anthony</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Anthony aka TheAnsw3r </h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 👨‍💻 &nbsp;I'm currently delving into the world of cybersecurity, actively pursuing certifications like eJPT and CPTS.\
 💡 &nbsp;I love exploring new technologies, especially in ethical hacking, network security, and vulnerability analysis.\
 🎓 &nbsp;I'm studying Computer Science at Escuela Politécnica Nacional, where I’m sharpening my skills in Linux, Python, and SQL.\
-🌱 &nbsp;Currently, I’m focused on mastering databases, web vulnerabilities (OWASP), and ethical hacking techniques.\
+🌱 &nbsp;Currently, I’m focused on mastering databases, web vulnerabilities (OWASP), ethical hacking techniques, network systems, and Active Directory.\
 ✍️ &nbsp;In my free time, I write about my hacking experiences, create content for my blog, and engage with the cybersecurity community.\
 💬 &nbsp;Feel free to reach out for collaboration, discussions, or pro bono consulting!\
-✉️ &nbsp;You can email me at your-email@example.com – I’ll respond as soon as I can!\
-📄 &nbsp;Check out my [Résumé](https://your-resume-link.com) for more details about my work and projects. I'm always open to feedback!
+📄 &nbsp;Check out my [Résumé](https://7heansw3r.github.io/) for more details about my work and projects. I'm always open to feedback!
+
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
+### 🛠 &nbsp;Tech Stack
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-
-### 🗃 &nbsp;Databases
-
-![MariaDB](https://img.shields.io/badge/mariadb-%23A8B9CC.svg?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
-![MSSQL](https://img.shields.io/badge/mssql-%23EAD54A.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Database](https://img.shields.io/badge/Database-000000?style=for-the-badge&logo=mysql&logoColor=white)&nbsp; <!-- Puedes cambiar el logo a cualquier otro que prefieras -->
 
 ### 🧰 &nbsp;Version Control & Tools 
 
@@ -38,8 +30,8 @@
 ![Kali Linux](https://img.shields.io/badge/kali-linux-%2320232a.svg?style=for-the-badge&logo=kali-linux&logoColor=white)&nbsp;
 
 ### 🌐 &nbsp;Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
+- [LinkedIn](https://www.linkedin.com/in/anthonycontrerasac)
+- [Twitter](https://x.com/The4nsw3rX)
 - [Hack The Box](https://app.hackthebox.com/profile/1534609)
-- [Blog](https://7heansw3r.com)
+- [Blog](https://7heansw3r.github.io)
 
