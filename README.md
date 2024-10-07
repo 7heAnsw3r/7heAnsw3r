@@ -8,7 +8,7 @@
 🌱 &nbsp;Currently, I’m focused on mastering databases, web vulnerabilities (OWASP), ethical hacking techniques, network systems, and Active Directory.\
 ✍️ &nbsp;In my free time, I write about my hacking experiences, create content for my blog, and engage with the cybersecurity community.\
 💬 &nbsp;Feel free to reach out for collaboration, discussions, or pro bono consulting!\
-📄 &nbsp;Check out my [Résumé](https://7heansw3r.github.io/) for more details about my work and projects. I'm always open to feedback!
+📄 &nbsp;Check out my [Blog](https://7heansw3r.github.io/) for more details about my work and projects. I'm always open to feedback!
 
 
 ### 🛠 &nbsp;Tech Stack
