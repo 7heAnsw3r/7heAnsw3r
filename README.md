@@ -11,8 +11,7 @@
 📄 &nbsp;Check out my [Résumé](https://7heansw3r.github.io/) for more details about my work and projects. I'm always open to feedback!
 
 
-<iframe src="https://giphy.com/embed/kMbNge6klTpoQ" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kMbNge6klTpoQ">via GIPHY</a></p>
-
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/kMbNge6klTpoQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/kMbNge6klTpoQ">via GIPHY</a></p>
 
 ### 🛠 &nbsp;Tech Stack
 
